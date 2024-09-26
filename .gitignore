@@ -18,3 +18,5 @@ venv/
 # Selenium test outputs
 screenshots/
 test-reports/
+
+.gitignore
